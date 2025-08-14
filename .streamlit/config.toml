@@ -1,0 +1,5 @@
+[server]
+# Whether to show a terminal prompt for the user's email address when
+# they run Streamlit (locally) for the first time. 
+# Disable this prompt for workshop participants.
+showEmailPrompt = false
