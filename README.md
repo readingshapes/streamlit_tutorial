@@ -12,10 +12,11 @@ You can view the final app you will build [here](https://arilamstein-tutorial.st
 
 ### Workshop Length
 
-In a recent workshop the most experienced developer finished the entire workshop in about 90 minutes
-with minimal help from me. 
+In a recent workshop an experienced developer finished the workshop in about 90 minutes
+with minimal help from me. The less-experienced developers tended to get "stuck" at certain points and needed help to
+overcome the issues they encountered. 
 
-The less-experienced developers tended to get "stuck" at certain points and needed help to overcome the issues they encountered. If you are going through this tutorial on your own and get stuck, my advice is to first see if google or an LLM can help
+If you are going through this tutorial on your own and get stuck, my advice is to first see if google or an LLM can help
 you. If that doesn't work, see if a more experienced developer can answer your question.  
 
 ### Prerequisites
