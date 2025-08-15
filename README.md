@@ -10,26 +10,24 @@ This repository walks you through creating and deploying a data app in Python us
 
 You can view the final app you will build [here](https://arilamstein-tutorial.streamlit.app/).
 
-### How Long Does This Tutorial Take?
+### How long?
 
-In a recent workshop the experienced Python developers tended to finish the workshop in less than 90 minutes
+In a recent workshop the most experienced developer finished the entire workshop in about 90 minutes
 with minimal help from me. 
 
-The less-experienced developers tended to get "stuck" at certain points and needed help to overcome the issues they encountered. 
-
-If you are going through this tutorial on your own and get stuck, my advice is to first see if google or an LLM can help
+The less-experienced developers tended to get "stuck" at certain points and needed help to overcome the issues they encountered. If you are going through this tutorial on your own and get stuck, my advice is to first see if google or an LLM can help
 you. If that doesn't work, see if a more experienced developer can answer your question.  
 
 ### Prerequisites
 
-This tutorial assumes that you have prior experience with the command line, git, and Python. 
+This tutorial assumes that you have basic proficiency with the command line, git, and Python. 
 
 ### Motivating Example
 
 I frequently use Jupyter Notebooks to convey analytical results. Each notebook typically imports a dataset,
 transforms it, and then presents a visualization or two. In short, each notebook tells a story about a dataset.
 
-Streamlit lets me convert the code in my Notebooks to a web application. Instead of telling a story, I am now giving people a
+Streamlit lets me convert the code in my notebooks to a web application. Instead of telling a story, I am now giving people a
 tool to explore the dataset themselves. 
 
 Click [here](motivating_example.ipynb) to see an example.
@@ -47,8 +45,10 @@ Next fork and clone the repository:
 1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 
 Finally, create the virtual environment for the project:
-1. In your project directory, type `uv sync`. This will create a
-   virtual environment in the project's `.venv` directory.  
+1. In your project directory, type `uv sync`. This will install the version of Python I used when creating this project.
+   It will also create a
+   virtual environment in the project's `.venv` directory. That virtual environment will contain all the packages you
+   need to complete the workshop.
 
 The above instructions need to be executed just once.
 
@@ -65,6 +65,8 @@ A browser should open that contains the demo app. It should look like this:
 </p>
 
 ### Streamlit Basics
+
+We're now ready to start working with code! Let's start with the basics.
 
 1. While the app is running, open the file [streamlit_app.py](streamlit_app.py). Can you guess what each line of
    the file does?
@@ -94,6 +96,22 @@ Streamlit makes it easy to share your app with others. When your app is running,
 the upper right. Click it and follow the instructions that appear.
 
 I encourage you to share your app with friends and family!
+
+### A More Complex App
+
+This tutorial is based on the first app I built with Streamlit. I call that app the "Covid Demographics Explorer", and
+it helps people understand how US counties changed since Covid-19. You can view it
+[here](https://census-explorer.streamlit.app/). 
+
+While that app is more complex than the app you just built, most of the complexity is in the data and visualizations.
+That is, it uses
+Streamlit in much the same way as the app you just created:
+  * It loads data on startup.
+  * It has input widgets.
+  * Those widgets determine what graphs are shown.
+  * The graphs are separated by tabs.
+
+You now know enough Streamlit to build and deploy fairly interesting apps. I look forward to seeing what you create!
 
 ### Conclusion
 
