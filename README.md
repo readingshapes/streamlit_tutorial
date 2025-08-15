@@ -55,7 +55,7 @@ The above instructions need to be executed just once.
 
 ### Run the Demo App
 
-After completing the steps in the "Setup" section you can run the demo app.
+To test that the Setup was done successfully, see if you run the demo app:
 
 1. First activate the project's virtual environment: In the terminal, navigate to the project's directory and type `source .venv/bin/activate`.
 1. Then type `streamlit run streamlit_app.py`.
@@ -73,9 +73,9 @@ You're now ready to start coding! Let's start with the basics.
    the file does?
 1. Streamlit apps can reload after you make changes to the source code. That is, you don't need to stop and restart the app to
    see the result of your changes. 
-1. While the app is running, change the text in the
+    1. While the app is running, change the text in the
    `st.header` call (line 7) to be "Changes in US State Demographics Over Time". Save the file. 
-1. The app should now have
+    1. The app should now have
    a button in the upper right that says "Rerun". Click it. The app should update with the new text.
    
 ### Modify the App 
