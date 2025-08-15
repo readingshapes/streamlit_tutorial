@@ -10,7 +10,7 @@ This repository walks you through creating and deploying a data app in Python us
 
 You can view the final app you will build [here](https://arilamstein-tutorial.streamlit.app/).
 
-### How long?
+### Workshop Length
 
 In a recent workshop the most experienced developer finished the entire workshop in about 90 minutes
 with minimal help from me. 
