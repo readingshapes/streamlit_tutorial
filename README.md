@@ -10,13 +10,19 @@ This repository walks you through creating and deploying a data app in Python us
 
 You can view the final app you will build [here](https://arilamstein-tutorial.streamlit.app/).
 
+### How Long Does This Tutorial Take?
+
+In a recent workshop the experienced Python developers tended to finish the workshop in less than 90 minutes
+with minimal help from me. 
+
+The less-experienced developers tended to get "stuck" at certain points and needed help to overcome the issues they encountered. 
+
+If you are going through this tutorial on your own and get stuck, my advice is to first see if google or an LLM can help
+you. If that doesn't work, see if a more experienced developer can answer your question.  
+
 ### Prerequisites
 
-This tutorial assumes that you have some familiarity with the terminal / command line. It also assumes that you have git installed on your local machine.
-
-Prior experience with git and Python is helpful but not necessary. 
-
-You do not need to have Python installed prior to starting this tutorial. 
+This tutorial assumes that you have prior experience with the command line, git, and Python. 
 
 ### Motivating Example
 
@@ -30,11 +36,18 @@ Click [here](motivating_example.ipynb) to see an example.
 
 ### Setup
 
+This tutorial uses [uv](https://docs.astral.sh/uv/) to manage the project's virtual environment. To install uv:
+1. Open a terminal.
+1. Follow the installation instructions [here](https://docs.astral.sh/uv/#installation). 
+1. Restart your terminal.
+
+Next fork and clone the repository:
 1. Fork this repository in Github
    ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)).
 1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
-1. Install uv ([instructions](https://docs.astral.sh/uv/#installation)). 
-1. In your terminal, navigate to the directory that contains this repo and type `uv sync`. This will create a
+
+Finally, create the virtual environment for the project:
+1. In your project directory, type `uv sync`. This will create a
    virtual environment in the project's `.venv` directory.  
 
 The above instructions need to be executed just once.
@@ -44,7 +57,7 @@ The above instructions need to be executed just once.
 After completing the steps in the "Setup" section you can run the demo app.
 
 1. First activate the project's virtual environment: In the terminal, navigate to the project's directory and type `source .venv/bin/activate`.
-1. Then type `streamlit run streamlit_app.py` in the terminal. 
+1. Then type `streamlit run streamlit_app.py`.
 
 A browser should open that contains the demo app. It should look like this:
 <p align="center">
