@@ -55,7 +55,7 @@ The above instructions need to be executed just once.
 
 ### Run the Demo App
 
-To test that the Setup was done successfully, see if you run the demo app:
+To confirm that the Setup was successful, see if you can run the demo app:
 
 1. First activate the project's virtual environment: In the terminal, navigate to the project's directory and type `source .venv/bin/activate`.
 1. Then type `streamlit run streamlit_app.py`.
