@@ -40,7 +40,7 @@ This tutorial uses [uv](https://docs.astral.sh/uv/) to manage the project's virt
 1. Follow the installation instructions [here](https://docs.astral.sh/uv/#installation). 
 1. Restart your terminal.
 
-Next fork and clone the repository:
+Next fork and clone this repository:
 1. Fork this repository in Github
    ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)).
 1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
@@ -67,7 +67,7 @@ A browser should open that contains the demo app. It should look like this:
 
 ### Streamlit Basics
 
-We're now ready to start working with code! Let's start with the basics.
+You're now ready to start coding! Let's start with the basics.
 
 1. While the app is running, open the file [streamlit_app.py](streamlit_app.py). Can you guess what each line of
    the file does?
