@@ -42,7 +42,7 @@ This tutorial uses [uv](https://docs.astral.sh/uv/) to manage the project's virt
 
 Next fork and clone this repository:
 1. Fork this repository in Github
-   ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)). Having your own fork is necessary to deploy your app, which is the last step in this tutorial. Please do not skip this step.
+   ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)). Having your own fork is necessary to deploy your app, which is the last step in this tutorial. Do not skip this step.
 1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 
 Finally, create the virtual environment for the project:
