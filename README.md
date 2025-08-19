@@ -42,14 +42,11 @@ This tutorial uses [uv](https://docs.astral.sh/uv/) to manage the project's virt
 
 Next fork and clone this repository:
 1. Fork this repository in Github
-   ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)). Having your own fork is necessary to deploy your app, which is the last step in this tutorial. Do not skip this step.
+   ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)). Having your own fork is necessary to deploy your app, which is the last step in this tutorial.
 1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 
 Finally, create the virtual environment for the project:
-1. In your project directory, type `uv sync`. This will install the version of Python I used when creating this project.
-   It will also create a
-   virtual environment in the project's `.venv` directory. That virtual environment will contain all the packages you
-   need to complete the workshop.
+1. In your project directory, type `uv sync`. This will create a virtual environment in the project's `.venv` directory. That virtual environment will have same version of Python I used when creating this project, as well as all the packages you need to complete the workshop. 
 
 The above instructions need to be executed just once.
 
