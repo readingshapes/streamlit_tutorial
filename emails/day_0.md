@@ -28,7 +28,7 @@ Reply to this email and let me know:
 
 Your answers will help me tailor future lessons and examples.
 
-  Ari Lamstein
+Ari Lamstein
 
 PS If you’re wondering why I like Streamlit, check out [this](https://github.com/arilamstein/streamlit_tutorial/blob/main/motivating_example.ipynb) Jupyter Notebook—it’s the one I walk through during my live workshops.
 
