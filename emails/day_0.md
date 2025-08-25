@@ -1,4 +1,4 @@
-Subject: Day 0: Why Build Data Apps with Streamlit?
+**Subject**: Day 0: Why Build Data Apps with Streamlit?
 
 Welcome to **Learn to Build Data Apps in Python with Streamlit**!
 
@@ -30,6 +30,6 @@ Your answers will help me tailor future lessons and examples.
 
   Ari Lamstein
 
-PS: If you’re wondering why I like Streamlit, check out [this](https://github.com/arilamstein/streamlit_tutorial/blob/main/motivating_example.ipynb) Jupyter Notebook—it’s the one I walk through during my live workshops.
+PS If you’re wondering why I like Streamlit, check out [this](https://github.com/arilamstein/streamlit_tutorial/blob/main/motivating_example.ipynb) Jupyter Notebook—it’s the one I walk through during my live workshops.
 
-PPS If you'd like to skip ahead, you can read tomorrow's email [here]().
+PPS If you'd like to skip ahead, you can read tomorrow's email [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day_1.md).

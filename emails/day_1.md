@@ -68,4 +68,4 @@ You’ve got this. One step at a time.
 
 Ari Lamstein
 
-PS Finished early? You can peek ahead to tomorrow's lesson [here]().
+PS Finished early? You can peek ahead to tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day_2.md).
