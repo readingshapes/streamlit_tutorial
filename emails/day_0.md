@@ -1,20 +1,24 @@
-Subject: Day 0: Why Build Data Apps With Streamlit?
+Subject: Day 0: Why Build Data Apps with Streamlit?
 
-Welcome to *Learn to Build Data Apps in Python With Streamlit*!
+Welcome to **Learn to Build Data Apps in Python with Streamlit**!
 
-In this course, you’ll build and deploy a Streamlit app that lets users explore US State demographics. They’ll select a state and a demographic variable, and the app will render a chart. A second tab will display the underlying data in table form.
+In this course, you’ll build and deploy a Streamlit app that lets users explore demographic data by US state. 
+
+Users will select a state and a demographic variable, and the app will render a chart. A second tab will display the underlying data as a table table.
 
 Here’s a sneak peek of the final app you’ll build:
 
-![screenshot-final-app](day_0_screenshot.png)
+<p align="center">
+  <img src="day_0_screenshot.png" alt="screenshot-final-app" width="50%">
+</p>
 
-The skills you learn in this course will be useful for any app you want to build in the future!
+The skills you learn in this course will be useful for any app you want to build in the future.
 
 ## What to Expect
 
 Each day for the next week, you will get an email like this with a tutorial and exercises. 
 
-Try to complete each exercise—this is where the real learning happens. And if you get stuck, just hit “reply” and I’ll help you troubleshoot.
+Try to complete each exercise—this is where the real learning happens! And if you get stuck, just hit “reply” and I’ll help you troubleshoot.
 
 ## Today’s Exercise: Share Your Goals
 
@@ -26,6 +30,6 @@ Your answers will help me tailor future lessons and examples.
 
   Ari Lamstein
 
-PS If you'd like to know why I like Streamlit, you can read [this](https://github.com/arilamstein/streamlit_tutorial/blob/main/motivating_example.ipynb) Jupyter Notebook I go through when I deliver this course as an in-person workshop.
+PS: If you’re wondering why I like Streamlit, check out [this](https://github.com/arilamstein/streamlit_tutorial/blob/main/motivating_example.ipynb) Jupyter Notebook—it’s the one I walk through during my live workshops.
 
 PPS If you'd like to skip ahead, you can read tomorrow's email [here]().
