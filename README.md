@@ -90,8 +90,18 @@ After you have finished the exercises, commit your changes and push them to Gith
 
 ### Deploy Your App
 
-Streamlit makes it easy to share your app with others. When your app is running, there should be a "Deploy" button in
-the upper right. Click it and follow the instructions that appear.
+Streamlit makes it easy to share your app with others. Once you've pushed your code to GitHub, follow these steps to deploy it to the web:
+
+1. Go to [streamlit.io/cloud](https://streamlit.io/cloud) and sign in with GitHub.
+2. Click **"New app"** and select:
+   - Your repository
+   - The correct branch (i.e. `main`)
+   - The entry point file (i.e. `streamlit_app.py`)
+3. Click **"Deploy"** and your app will go live!
+
+### 🔁 Updating Your App
+
+After the initial deployment, **any changes you push to GitHub will automatically redeploy your app**.
 
 I encourage you to share your app with friends and family!
 
