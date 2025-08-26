@@ -25,3 +25,5 @@ Thanks again for joining me on this journey.
 Keep exploring, 
 
 Ari Lamstein
+
+PS Interested in my most recent Streamlit project? Click [here](https://arilamstein.com/blog/2025/07/21/a-python-app-for-analyzing-immigration-enforcement-data/).

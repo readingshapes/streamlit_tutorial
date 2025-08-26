@@ -1,6 +1,6 @@
-**Subject**: Day 1: Set Up Your Streamlit App Locally 🛠
+**Subject**: Day 2: Set Up Your Streamlit App Locally 🛠
 
-Welcome to Day 1 of the Streamlit tutorial!
+Welcome to Day 2 of the Streamlit tutorial!
 
 Today’s goal is to get the demo app running on your computer. This is the only setup-heavy day—after this, we’ll focus on building and customizing your app.
 
@@ -30,7 +30,7 @@ uv is a fast Python package manager. You’ll use it to install everything you n
 
 **4. Create your virtual environment**
 
-Inside your project folder, run:
+Inside your project folder, type:
 
 `uv sync`
 
@@ -52,6 +52,8 @@ In the project directory type:
 
 `streamlit run streamlit_app.py`
 
+This needs to be run *after* you activate your virtual environment. 
+
 If everything works, your browser will open with the demo app. It should look like this:
 
 <p align="center">
@@ -61,11 +63,11 @@ If everything works, your browser will open with the demo app. It should look li
 ## 🧠 Tips
 
   * If you get stuck, reply to this email—I’m happy to help.
-  * You can preview the final app here to see where we’re headed.
+  * You can preview the final app [here](https://arilamstein-tutorial.streamlit.app/) to see where we’re headed.
   * Tomorrow, we’ll start customizing the app and adding new charts.
 
 You’ve got this. One step at a time.
 
 Ari Lamstein
 
-PS Finished early? You can peek ahead to tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day_2.md).
+PS Finished early? You can peek ahead to tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day-3.md).

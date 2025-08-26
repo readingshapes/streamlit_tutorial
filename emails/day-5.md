@@ -1,4 +1,4 @@
-**Subject:** Day 4: Deploy Your App and Share It 🌍
+**Subject:** Day 5: Deploy Your App and Share It 🌍
 
 You’ve built a working Streamlit app. Now it’s time to share it with the world.
 
@@ -32,4 +32,4 @@ You’re almost there,
 
 Ari Lamstein
 
-PS Want to skip ahead? You can read tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day_5.md).
+PS Want to skip ahead? You can read tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day-6.md).

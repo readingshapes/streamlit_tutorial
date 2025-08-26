@@ -1,4 +1,4 @@
-**Subject**: Day 3: Time to Modify the App 🧠
+**Subject**: Day 4: Time to Modify the App 🧠
 
 You’ve already set up your environment, run the demo app, and made your first code edit. Today, we take the next big step: modifying the app to make it your own.
 
@@ -28,4 +28,4 @@ You’re building something real now. Keep going.
 
 PS: If you want to peek at my solution, check out `solution_app.py` in the repo. But try the exercises yourself first—you’ll learn more that way.
 
-PPS: Tomorrow you'll learn how to deploy your app. If you want to skip ahead, click [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day_4.md).
+PPS: Tomorrow you'll learn how to deploy your app. If you want to skip ahead, click [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day-5.md).

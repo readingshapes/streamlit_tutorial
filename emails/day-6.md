@@ -1,4 +1,4 @@
-**Subject**: Day 5: A More Complex App—And You’re Ready for It 💪
+**Subject**: Day 6: A More Complex App—And You’re Ready for It 💪
 
 You’ve built and deployed your first Streamlit app. That’s a huge milestone.
 
