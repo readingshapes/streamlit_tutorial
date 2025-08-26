@@ -4,7 +4,7 @@ Welcome to **Learn to Build Data Apps in Python with Streamlit**!
 
 In this course, you’ll build and deploy a Streamlit app that lets users explore demographic data by US state. 
 
-Users will select a state and a demographic variable, and the app will render a chart. A second tab will display the underlying data as a table table.
+Users will select a state and a demographic variable, and the app will render a chart. A second tab will display the underlying data as a table.
 
 Here’s a sneak peek of the final app you’ll build:
 

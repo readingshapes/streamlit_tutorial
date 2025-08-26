@@ -19,7 +19,7 @@ This is a small step, but it’s a meaningful one. You’re not just running cod
 
 **3. Make a change.** Find the line that starts with `st.header`. It should be line 7. Change the text to: "Changes in US State Demographics Over Time".
 
-**4. Save and rerun.** Save the file. Streamlit will detect that file changed. In your browser, a button that says "Rerun" will appear in the upper right corner of the app. Click it. You should see your new header appear instantly.
+**4. Save and rerun.** Save the file. Streamlit will detect that the file changed. In your browser, a button that says "Rerun" will appear in the upper right corner of the app. Click it. You should see your new header appear instantly.
 
 ## 💬 Why This Matters
 Streamlit is designed for fast feedback. You don’t need to restart the app—just save and rerun. That makes it easy to experiment and learn by doing.
@@ -30,6 +30,6 @@ Tomorrow, we’ll start making deeper changes. But for today, enjoy this win—y
 
 Nice work, 
 
-Ari Lamstein
+Ari
 
 PS Curious what’s next? You can peek ahead to tomorrow’s lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day-4.md).

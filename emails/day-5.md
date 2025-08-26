@@ -26,10 +26,6 @@ Your app will build and launch in the browser. You’ll get a public URL you can
 ### 🔁 Future Updates
 Once your app is deployed, **any changes you push to GitHub will automatically update the live version**. No need to click “Deploy” again—just commit, push, and Streamlit takes care of the rest.
 
-Tomorrow, we’ll wrap up the course and talk about next steps.
-
 You’re almost there, 
 
-Ari Lamstein
-
-PS Want to skip ahead? You can read tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day-6.md).
+Ari

@@ -24,7 +24,7 @@ Take your time. If something doesn’t work, that’s okay. Every bug is a learn
 
 You’re building something real now. Keep going.
 
-—Ari Lamstein
+—Ari
 
 PS: If you want to peek at my solution, check out `solution_app.py` in the repo. But try the exercises yourself first—you’ll learn more that way.
 

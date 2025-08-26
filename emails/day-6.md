@@ -32,6 +32,6 @@ This helps clarify your goals—and shows you how far you’ve already come.
   
 Keep exploring, 
 
-Ari Lamstein
+Ari
 
 PS Want to learn more about the Covid Demographics Explorer? Check out its GitHub repo [here](https://github.com/arilamstein/censusdis-streamlit?tab=readme-ov-file).

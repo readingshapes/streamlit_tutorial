@@ -40,7 +40,7 @@ That’s it for uv—you won’t need to use it again during this course.
 
 **Activate your virtual environment**
 
-In your project directory type:
+In your project directory, run:
 
 `source .venv/bin/activate`
 
@@ -48,13 +48,11 @@ You'll need to do this each time you open a new terminal.
 
 **Run the demo app**
 
-In the project directory type:
+Once your environment is active, type:
 
 `streamlit run streamlit_app.py`
 
-This needs to be run *after* you activate your virtual environment. 
-
-If everything works, your browser will open with the demo app. It should look like this:
+This launches the app in your browser. If everything's working, you'll see something like this:
 
 <p align="center">
   <img src="../screenshot-demo-app.png" alt="Demo App Screenshot" width="50%">
@@ -68,6 +66,6 @@ If everything works, your browser will open with the demo app. It should look li
 
 You’ve got this. One step at a time.
 
-Ari Lamstein
+Ari
 
 PS Finished early? You can peek ahead to tomorrow's lesson [here](https://github.com/arilamstein/streamlit_tutorial/blob/main/emails/day-3.md).
