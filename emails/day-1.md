@@ -1,6 +1,6 @@
 **Subject**: Day 1: Why Build Data Apps with Streamlit?
 
-Welcome to **Learn to Build Data Apps in Python with Streamlit**!
+Welcome to **Learn to Build Data Apps with Streamlit**!
 
 In this course, you’ll build and deploy a Streamlit app that lets users explore demographic data by US state. 
 
