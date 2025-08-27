@@ -13,13 +13,21 @@ This is a small step, but it’s a meaningful one. You’re not just running cod
 
 ## 🧵 Step-by-Step Instructions
 
-**1. Open the file.** In your project folder, find and open `streamlit_app.py`.
+**1. Open the file** 
 
-**2. Read the code.** Take a moment to scan the file. Can you guess what each line does? Don’t worry if you’re unsure—just noticing patterns is a great start.
+In your project folder, find and open `streamlit_app.py`.
 
-**3. Make a change.** Find the line that starts with `st.header`. It should be line 7. Change the text to: "Changes in US State Demographics Over Time".
+**2. Read the code** 
 
-**4. Save and rerun.** Save the file. Streamlit will detect that the file changed. In your browser, a button that says "Rerun" will appear in the upper right corner of the app. Click it. You should see your new header appear instantly.
+Take a moment to scan the file. Can you guess what each line does? Don’t worry if you’re unsure—just noticing patterns is a great start.
+
+**3. Make a change** 
+
+Line 7 starts with `st.header`. Change the text inside the quotes to "Changes in US State Demographics Over Time".
+
+**4. Save and rerun** 
+
+Save the file. Streamlit will detect that the file changed. In your browser, a button that says "Rerun" will appear in the upper right corner of the app. Click it. You should see your new header appear instantly.
 
 ## 💬 Why This Matters
 Streamlit is designed for fast feedback. You don’t need to restart the app—just save and rerun. That makes it easy to experiment and learn by doing.

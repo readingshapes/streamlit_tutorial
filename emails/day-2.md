@@ -48,7 +48,7 @@ You'll need to do this each time you open a new terminal.
 
 **Run the demo app**
 
-Once your environment is active, type:
+Once your virtual environment is active, type:
 
 `streamlit run streamlit_app.py`
 
