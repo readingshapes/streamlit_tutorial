@@ -1,6 +1,6 @@
 **Subject**: Day 2: Set Up Your Streamlit App Locally 🛠
 
-Welcome to Day 2 of the Streamlit tutorial!
+Welcome to Day 2 of **Learn to Build Data Apps with Streamlit**!
 
 Today’s goal is to get the demo app running on your computer. This is the only setup-heavy day—after this, we’ll focus on building and customizing your app.
 
