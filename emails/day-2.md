@@ -10,9 +10,9 @@ Let's break it into two parts: "One-Time Setup" and "Steps You'll Repeat".
 
 These steps only need to be done once:
 
-**1. Fork the repo**
+**1. Fork the course repo**
 
-Forking creates your own copy of the tutorial. You’ll need this later when you deploy your app, so don’t skip it! 
+The course repo can be found **[here](https://github.com/arilamstein/streamlit_tutorial)**. Forking creates your own copy of the tutorial. You’ll need this later when you deploy your app, so don’t skip it! 
 
 👉 [How to fork a repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
