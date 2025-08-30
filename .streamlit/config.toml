@@ -4,4 +4,4 @@
 # Disable this prompt for workshop participants.
 # Also, set a dummy email because the prompt for one confuses people.
 showEmailPrompt = false
-email = placeholder@example.com
+email = "placeholder@example.com"
