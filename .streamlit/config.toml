@@ -2,4 +2,6 @@
 # Whether to show a terminal prompt for the user's email address when
 # they run Streamlit (locally) for the first time. 
 # Disable this prompt for workshop participants.
+# Also, set a dummy email because the prompt for one confuses people.
 showEmailPrompt = false
+email = placeholder@example.com
