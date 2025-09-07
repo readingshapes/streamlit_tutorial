@@ -75,4 +75,4 @@ with tab2:
     st.write("All Data")
     st.dataframe(df.style.format({'Pct Change in Median Income': "{:.2%}"
     , 'Total Population': "{:,.0f}"
-    , 'Pct Change in Median Income': "{:,.0f}"}))
+    , 'Median Household Income': "{:,.0f}"}))
