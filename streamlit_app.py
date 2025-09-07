@@ -58,7 +58,6 @@ with tab1:
             df_state
             , x="Year"
             , y="Total Population"
-            , color="red"
             , title=f"Total Population of {state}"
             )
     elif demographic == "Pct Change in Median Income":
