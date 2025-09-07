@@ -3,6 +3,19 @@ import pandas as pd
 import plotly.express as px
 import plotly.io as pio
 
+# feedback: day 4 - copy/paste chart and modify to show change in median income. this is not really change in median income, it's just income by year
+# jumps from training wheels to a jet - there's no walk through of the in-between of streamlit. i could just read the documentation if i wanted to do research on my own
+
+# day 6:
+# an app i could create right now
+# an app i would like to build but is too complex for me now
+
+
+
+
+# --------------------------------------------------------------------
+# instructions
+
 # cd /home/pants/Documents/streamlit_tutorial
 
 ### **Activate your virtual environment**
@@ -17,7 +30,7 @@ import plotly.io as pio
 
 # `streamlit run streamlit_app.py`
 
-
+# --------------------------------------------------------------------
 # read in file
 df = pd.read_csv("state_data.csv")
 
@@ -60,4 +73,4 @@ with tab1:
     st.plotly_chart(fig)
 with tab2:
     st.write("All Data")
-    st.dataframe(df)
+    st.dataframe(df.style.format({'Pct Change in Median Income': "{:.2%}"}))
